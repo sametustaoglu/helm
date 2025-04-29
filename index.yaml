@@ -19,6 +19,6 @@ entries:
     name: secret-labeler
     type: application
     urls:
-    - https://sametustaoglu.github.io/helm/secret-labeler-0.1.0.tgz
+    - https://sametustaoglu.github.io/helm/secret-labeler-0.1.1.tgz
     version: 0.1.1
 generated: "2025-04-29T13:57:13.384676+03:00"
