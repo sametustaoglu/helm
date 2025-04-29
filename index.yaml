@@ -3,7 +3,7 @@ entries:
   host-persistence:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2025-04-29T13:57:13.385563+03:00"
+    created: "2025-04-29T14:48:14.893309+03:00"
     description: A Helm chart for creating persistence in host
     digest: 99e00b49a43df961ab7b6de5abc752670451de0157c22a2532f6713743771845
     name: host-persistence
@@ -12,13 +12,23 @@ entries:
     version: 0.1.0
   secret-labeler:
   - apiVersion: v2
-    appVersion: "1.0"
-    created: "2025-04-29T13:57:13.385846+03:00"
+    appVersion: "1.1"
+    created: "2025-04-29T14:48:14.895088+03:00"
     description: A Helm chart to label Secrets Manager versions in AWS
-    digest: a9b5b0fcc39794f53285761f7a9b44e64cb23d56877ac111ac13795fa5b6207f
+    digest: 67cb0c9d65861567612898301c33584cd9e124c2ecffd0f07359a43428b241a4
     name: secret-labeler
     type: application
     urls:
     - https://sametustaoglu.github.io/helm/secret-labeler-0.1.1.tgz
     version: 0.1.1
-generated: "2025-04-29T13:57:13.384676+03:00"
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-04-29T14:48:14.894818+03:00"
+    description: A Helm chart to label Secrets Manager versions in AWS
+    digest: a9b5b0fcc39794f53285761f7a9b44e64cb23d56877ac111ac13795fa5b6207f
+    name: secret-labeler
+    type: application
+    urls:
+    - https://sametustaoglu.github.io/helm/secret-labeler-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-29T14:48:14.892392+03:00"
